@@ -150,7 +150,7 @@ ul{
 }
 
 .ofertas-wrapper{
-  width: min(90%, 1100px);
+  width: min(90%, 1400px);
   margin-inline: auto;
 
   margin-top: 2em;
@@ -168,7 +168,7 @@ ul{
 }
 
 .confira{
-  width: min(95%, 800px);
+  width: min(95%, 1000px);
   margin-inline: auto;
   display: inline;
   border-top: 3px solid black;
