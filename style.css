@@ -226,13 +226,13 @@ ul{
   h4{
     font-size: clamp(3rem, 4vw, 5rem);
     border-bottom: 2px solid white;
-      width: min(95%, 1100px);
+      width: min(90%, 1100px);
   margin-inline: auto;
   }
   p{
     font-size: clamp(2rem, 4vw, 3rem);
     line-height: 1;
-     width: min(95%, 1100px);
+     width: min(90%, 1100px);
   margin-inline: auto;
   margin-top: 2em;
   }
