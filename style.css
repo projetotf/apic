@@ -168,7 +168,7 @@ ul{
 }
 
 .confira{
-  width: min(95%, 1000px);
+  width: min(60%, 1000px);
   margin-inline: auto;
   display: inline;
   border-top: 3px solid black;
